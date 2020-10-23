@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\CreditCardUptade\CreditCardUptade\bin\Debug\netcoreapp3.1\CreditCardUptade.exe
+C:\Users\Roland Strod\source\repos\CreditCardUptade\CreditCardUptade\bin\Debug\netcoreapp3.1\CreditCardUptade.deps.json
+C:\Users\Roland Strod\source\repos\CreditCardUptade\CreditCardUptade\bin\Debug\netcoreapp3.1\CreditCardUptade.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\CreditCardUptade\CreditCardUptade\bin\Debug\netcoreapp3.1\CreditCardUptade.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\CreditCardUptade\CreditCardUptade\bin\Debug\netcoreapp3.1\CreditCardUptade.dll
+C:\Users\Roland Strod\source\repos\CreditCardUptade\CreditCardUptade\bin\Debug\netcoreapp3.1\CreditCardUptade.pdb
+C:\Users\Roland Strod\source\repos\CreditCardUptade\CreditCardUptade\obj\Debug\netcoreapp3.1\CreditCardUptade.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\CreditCardUptade\CreditCardUptade\obj\Debug\netcoreapp3.1\CreditCardUptade.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\CreditCardUptade\CreditCardUptade\obj\Debug\netcoreapp3.1\CreditCardUptade.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\CreditCardUptade\CreditCardUptade\obj\Debug\netcoreapp3.1\CreditCardUptade.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\CreditCardUptade\CreditCardUptade\obj\Debug\netcoreapp3.1\CreditCardUptade.dll
+C:\Users\Roland Strod\source\repos\CreditCardUptade\CreditCardUptade\obj\Debug\netcoreapp3.1\CreditCardUptade.pdb
+C:\Users\Roland Strod\source\repos\CreditCardUptade\CreditCardUptade\obj\Debug\netcoreapp3.1\CreditCardUptade.genruntimeconfig.cache
